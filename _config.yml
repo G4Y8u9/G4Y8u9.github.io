@@ -76,7 +76,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "<br>"
+sidebar-about-description: "飞机 火箭 字幕 虚拟主播 魔方"
 sidebar-avatar: https://avatars.githubusercontent.com/u/18256808 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
