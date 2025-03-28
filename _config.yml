@@ -53,6 +53,7 @@ plugins: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM # use Github Flavored Markdown !important
+  parse_block_html: true # 添加这一行
   syntax_highlighter_opts:
     span:
       line_numbers: false
