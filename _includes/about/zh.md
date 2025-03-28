@@ -12,7 +12,7 @@
 喜欢玩绳子 喜欢捆人 技术一般
 
 
-##### 传送门
+##### 翻译过
 
 - [火箭发动机冷却方法](https://www.bilibili.com/video/av723951018/)
 - [火箭发动机循环方式](https://www.bilibili.com/video/av300259217/)
@@ -20,7 +20,7 @@
 - [跑道侵入四则案例3D动画](https://www.bilibili.com/video/av228611141/)
 
 
-##### 去过的现场
+##### 去过
 
 - [福建平潭海上风电16MW风机安装](https://www.bilibili.com/opus/812707691871862825)
 - [江门中微子实验室(JUNO)](https://www.bilibili.com/video/av113496389845933/)
