@@ -10,6 +10,8 @@ tags:
     - 机场
     - 飞机
     - 模拟飞行
+    - NAIP
+    - 航图
 ---
 
 [Chinese Airports](https://earth.google.com/earth/d/1J1n9F741-d_lp-3AO1sBkisEJ7kBvf3R)  
